@@ -9,3 +9,7 @@
   - Architected and deployed 3+ production-ready web applications achieving 99.9% uptime on cloud platforms
   - Focused on **JavaScript, MongoDb, Express.js, React.js, Node.js, and real based problem**  
   - [View Certificate](https://github.com/albenusmurmu/Certifications/blob/main/FullStack%20Development%20Certified.jpg)
+ ---    
+- **Full-Stack Developer** – Aura Tech (2025-26)  
+  - Focused on **JavaScript, React.js, MongoDb, Express.js, React.js, Node.js, and real based problem**  
+  - [View Certificate](https://github.com/albenusmurmu/Certifications/blob/main/Albenus_murmu_internship_certificate.pdf)
